@@ -1,0 +1,18 @@
+.galeria {
+    align-items: center;
+    align-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+    background-color: aquamarine;
+    height: 500px;
+}
+
+.item {
+    background-color: #8a2be2;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
